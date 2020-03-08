@@ -1,4 +1,4 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+/build_*/
+/node_modules/
+/vendor/
+.DS_Store
