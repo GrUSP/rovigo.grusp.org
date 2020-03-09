@@ -20,7 +20,7 @@
             <p class="mt-0 mb-4">{!! $featuredPost->getExcerpt() !!}</p>
 
             <a href="{{ $featuredPost->getUrl() }}" title="Read - {{ $featuredPost->title }}" class="uppercase tracking-wide mb-4">
-                Read
+                Leggi
             </a>
         </div>
 
@@ -30,20 +30,20 @@
     @endforeach
 
     @foreach ($posts->where('featured', false)->take(6)->chunk(2) as $row)
-        <div class="flex flex-col md:flex-row md:-mx-6">
+        <div class="flex flex-col md:flex-row md:-mr-6">
             @foreach ($row as $post)
-                <div class="w-full md:w-1/2 md:mx-6">
-                    @include('_components.post-preview-inline')
-                </div>
+                    <div class="w-full md:w-1/2">
+                        @include('_components.post-preview-card')
+                    </div>
 
                 @if (! $loop->last)
-                    <hr class="block md:hidden w-full border-b mt-2 mb-6">
+                    <!-- <hr class="block md:hidden w-full border-b mt-2 mb-6"> -->
                 @endif
             @endforeach
         </div>
 
         @if (! $loop->last)
-            <hr class="w-full border-b mt-2 mb-6">
+            <!-- <hr class="w-full border-b mt-2 mb-6"> -->
         @endif
     @endforeach
 @stop
