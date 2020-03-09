@@ -1,4 +1,4 @@
-<div class="shadow rounded-md flex flex-col mb-4 md:mr-6 relative">
+<div class="shadow rounded-md flex flex-col mb-4 md:mr-6 relative bg-white">
     <div class=" bg-size bg-cover bg-center"
          style="background-image: url('{{ $post->cover_image }}')">
         <div class="p-4 h-32 flex items-end text-white">
