@@ -2,9 +2,11 @@
 
 @section('body')
     @foreach ($posts->where('featured', true) as $featuredPost)
-        <div class="w-full mb-6">
+        <div class="w-full mb-6 shadow-xl border border-gray-200 rounded-md p-4 bg-white">
             @if ($featuredPost->cover_image)
-                <img src="{{ $featuredPost->cover_image }}" alt="{{ $featuredPost->title }} cover image" class="mb-6">
+                <div class="m-0 mb-6 text-center">
+                    <img src="{{ $featuredPost->cover_image }}" alt="{{ $featuredPost->title }} cover image" class="mx-auto">
+                </div>
             @endif
 
             <p class="text-gray-700 font-medium my-2">
