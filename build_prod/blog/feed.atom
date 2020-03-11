@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>PHP Users Group Rovigo</title>
+    <link href="" />
+    <link type="application/atom+xml" rel="self" href="/blog/feed.atom" />
+    <updated>2020-03-11T07:33:50+00:00</updated>
+    <id>/blog/feed.atom</id>
+    <author>
+        <name>Pug Rovigo</name>
+    </author>
+                <entry>
+    <id>/blog/2020-03-08</id>
+    <link type="text/html" rel="alternate" href="/blog/2020-03-08" />
+    <title>Sospensione incontri</title>
+    <published>2020-03-08T00:00:00+00:00</published>
+    <updated>2020-03-08T00:00:00+00:00</updated>
+    <author>
+        <name>PUG Rovigo</name>
+    </author>
+    <summary type="html">Date le odierne disposizioni ma soprattutto a livello precauzionale le attività del PUG sono sospere almeno fino ai primi di Aprile, questo per quanto riguarda gli incontri.
+
+Misure per il contrasto e il contenimento sull&#039;intero territorio nazionale del......</summary>
+    <content type="html"><![CDATA[
+        <p>Date le odierne disposizioni ma soprattutto a livello precauzionale le attività del PUG sono sospere almeno fino ai primi di Aprile, questo per quanto riguarda gli incontri.</p>
+
+<p>Misure per il contrasto e il contenimento sull'intero territorio nazionale del diffondersi del virus COVID-19 valide <em>fino al 3 Aprile 2020</em>.
+Ecco le principali novità rispetto al DPCM del 1° Marzo
+    Sono sospese le manifestazioni e gli eventi di qualsiasi natura, svolti in ogni luogo, sia pubblico sia privato, che comportano affollamento di persone tale da non consentire il rispetto della distanza di sicurezza interpersonale di almeno un metro;</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>/blog/2020-02-08</id>
+    <link type="text/html" rel="alternate" href="/blog/2020-02-08" />
+    <title>Introduzione a JAMStack 2</title>
+    <published>2020-02-02T00:00:00+00:00</published>
+    <updated>2020-02-02T00:00:00+00:00</updated>
+    <author>
+        <name>PUG Rovigo</name>
+    </author>
+    <summary type="html">Parleremo dell&#039;architettura JAM, applicazioni e implemetazioni con i seguenti argomenti:
+
+
+Cos&#039;è.
+JavaScript vs TypeScript.
+Alternative a TypeScript: Flow.
+RxJs.
+Angular, panoramica ed esempi.
+Vedremo anche questi argomenti richiesti dalla community:......</summary>
+    <content type="html"><![CDATA[
+        <p>Parleremo dell'architettura JAM, applicazioni e implemetazioni con i seguenti argomenti:</p>
+
+<ul>
+<li>Cos'è.</li>
+<li>JavaScript vs TypeScript.</li>
+<li>Alternative a TypeScript: Flow.</li>
+<li>RxJs.</li>
+<li>Angular, panoramica ed esempi.</li>
+<li>Vedremo anche questi argomenti richiesti dalla community:</li>
+<li>Docker.</li>
+<li>JigSaw</li>
+</ul>
+
+<p>L'obiettivo è proseguire nei prossimi incontri verso Ionic/Cordova/Firebase e fare un esempio concreto lato serverless e GraphQL per l'on premise. Un membro della community illustrrerà un'idea di progetto da realizzare assieme.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>/blog/2020-01-18</id>
+    <link type="text/html" rel="alternate" href="/blog/2020-01-18" />
+    <title>Introduzione a JAM Stack</title>
+    <published>2020-01-18T00:00:00+00:00</published>
+    <updated>2020-01-18T00:00:00+00:00</updated>
+    <author>
+        <name>PUG Rovigo</name>
+    </author>
+    <summary type="html">Parleremo dell&#039;architettura JAM, applicazioni e implemetazioni con i seguenti argomenti:
+
+
+Cos&#039;è.
+JavaScript vs TypeScript.
+Alternative a TypeScript: Flow.
+RxJs.
+Angular, panoramica ed esempi.
+
+
+Vedremo anche questi argomenti richiesti dalla community:......</summary>
+    <content type="html"><![CDATA[
+        <p>Parleremo dell'architettura JAM, applicazioni e implemetazioni con i seguenti argomenti:</p>
+
+<ul>
+<li>Cos'è.</li>
+<li>JavaScript vs TypeScript.</li>
+<li>Alternative a TypeScript: Flow.</li>
+<li>RxJs.</li>
+<li>Angular, panoramica ed esempi.</li>
+</ul>
+
+<p>Vedremo anche questi argomenti richiesti dalla community:</p>
+
+<ul>
+<li>Docker.</li>
+<li>JigSaw</li>
+</ul>
+
+<p>L'obiettivo è proseguire nei prossimi incontri verso Ionic/Cordova/Firebase e fare un esempio concreto lato serverless e GraphQL per l'on premise. Un membro della community illustrrerà un'idea di progetto da realizzare assieme.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>/blog/2019-11-20</id>
+    <link type="text/html" rel="alternate" href="/blog/2019-11-20" />
+    <title>Laravel Queue</title>
+    <published>2019-11-20T00:00:00+00:00</published>
+    <updated>2019-11-20T00:00:00+00:00</updated>
+    <author>
+        <name>PUG Rovigo</name>
+    </author>
+    <summary type="html">Incontro introduttico con mini-workshop su la struttura base di laravel e lo sviluppo basato su job accodabili....</summary>
+    <content type="html"><![CDATA[
+        <p>Incontro introduttico con mini-workshop su la struttura base di laravel e lo sviluppo basato su job accodabili.</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>/blog/2019-10-30</id>
+    <link type="text/html" rel="alternate" href="/blog/2019-10-30" />
+    <title>Clean Code</title>
+    <published>2019-10-30T00:00:00+00:00</published>
+    <updated>2019-10-30T00:00:00+00:00</updated>
+    <author>
+        <name>PUG Rovigo</name>
+    </author>
+    <summary type="html">Incontro dedicato ai principi SOLID e tecniche di pulizia del codice e delle strutture. Le slide della giornata possono essere trovate qui su slide.com...</summary>
+    <content type="html"><![CDATA[
+        <p>Incontro dedicato ai principi SOLID e tecniche di pulizia del codice e delle strutture. Le slide della giornata possono essere trovate qui <a href="https://slides.com/eppak/clean-code">su slide.com</a></p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>/blog/2019-08-30</id>
+    <link type="text/html" rel="alternate" href="/blog/2019-08-30" />
+    <title>Gormiti Agile Day</title>
+    <published>2019-08-30T00:00:00+00:00</published>
+    <updated>2019-08-30T00:00:00+00:00</updated>
+    <author>
+        <name>PUG Rovigo</name>
+    </author>
+    <summary type="html">Una giornata dedicata all&#039;introduzione ai principi Agili e al framework Scrum....</summary>
+    <content type="html"><![CDATA[
+        <p>Una giornata dedicata all'introduzione ai principi Agili e al framework Scrum.</p>
+    ]]></content>
+</entry>
+    </feed>
