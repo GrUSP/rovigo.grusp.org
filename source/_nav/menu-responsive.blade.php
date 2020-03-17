@@ -1,5 +1,5 @@
-<nav id="js-nav-menu" class="nav-menu hidden lg:hidden">
-    <ul class="my-0">
+<nav id="js-nav-menu" class="nav-menu hidden lg:hidden z-10 ml-2 mr-2">
+    <ul class="my-0 list-none">
         <li class="pl-4">
             <a
                 title="{{ $page->siteName }} Blog"
