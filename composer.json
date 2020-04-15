@@ -1,5 +1,5 @@
 {
-    "name": "pugrovigo",
+    "name": "grusp/pugrovigo",
     "description": "Pug Rovigo - Site",    
     "require": {
         "tightenco/jigsaw": "^1.3",
