@@ -18,4 +18,6 @@
 
     <p class="mb-6">Siamo parte del GrUSP quindi ci rifacciamo a tutti i principi che potete trovare qui <a href="https://www.grusp.org/it/about.html">Grusp</a></p>
     
+    <p class="mb-6">Potete contattarci via email a rovigo@grusp.org, via meetup o sul canale #pug-rovigo dello slack del Grusp</p>
+    
 @endsection
