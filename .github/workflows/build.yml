@@ -21,4 +21,9 @@ jobs:
       run: composer install --prefer-dist --no-progress --no-suggest
 
     - name: Build
-      run: ./vendor/bin/jigsaw build
+      run: ./vendor/bin/jigsaw build prod
+      
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        publish_dir: ./build_prod
