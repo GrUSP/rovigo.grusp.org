@@ -22,6 +22,9 @@ jobs:
 
     - name: Build
       run: ./vendor/bin/jigsaw build prod
+    
+    - name: Cname
+      run: cp ./CNAME ./build_prod
       
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
