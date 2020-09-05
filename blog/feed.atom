@@ -3,12 +3,43 @@
     <title>PHP Users Group Rovigo</title>
     <link href="" />
     <link type="application/atom+xml" rel="self" href="/blog/feed.atom" />
-    <updated>2020-04-16T06:45:49+00:00</updated>
+    <updated>2020-09-05T13:57:43+00:00</updated>
     <id>/blog/feed.atom</id>
     <author>
         <name>Pug Rovigo</name>
     </author>
                 <entry>
+    <id>/blog/2020-05-14</id>
+    <link type="text/html" rel="alternate" href="/blog/2020-05-14" />
+    <title>Server Automation con Laravel Zero</title>
+    <published>2020-05-14T00:00:00+00:00</published>
+    <updated>2020-05-14T00:00:00+00:00</updated>
+    <author>
+        <name>PUG Rovigo</name>
+    </author>
+    <summary type="html">Esploriamo lo sviluppo di tool in linea di comando con PHP con l&#039;ausilio del Framework Laravel Zero; un tool per chi vuole cimentarsi con il devops facendo largo uso delle proprie conoscenze da programmatore PHP.
+
+Il talk è stato presentato anche al......</summary>
+    <content type="html"><![CDATA[
+        <p>Esploriamo lo sviluppo di tool in linea di comando con PHP con l'ausilio del Framework Laravel Zero; un tool per chi vuole cimentarsi con il devops facendo largo uso delle proprie conoscenze da programmatore PHP.</p>
+
+<p>Il talk è stato presentato anche al PHPDay PUGEdition svoltosi interamente online, causa pandemia da COVID-19.</p>
+
+<p>Ti aspettiamo al prossimo phpday!
+<a href="https://www.phpday.it">https://www.phpday.it</a>
+Twitter @phpday
+Iscriviti alla newsletter: <a href="http://bit.ly/grusp-nl">http://bit.ly/grusp-nl</a></p>
+
+<p>Alessandro Cappellozza</p>
+
+<p>Talk su Youtube:</p>
+
+<iframe width="100%" height="480" src="https://youtu.be/NQCkMkiB-s4" />
+
+<p></iframe></p>
+    ]]></content>
+</entry>
+            <entry>
     <id>/blog/2020-04-15</id>
     <link type="text/html" rel="alternate" href="/blog/2020-04-15" />
     <title>Introduzione a Jigsaw</title>
