@@ -3,7 +3,7 @@
     <title>PHP Users Group Rovigo</title>
     <link href="" />
     <link type="application/atom+xml" rel="self" href="/blog/feed.atom" />
-    <updated>2020-09-05T13:57:43+00:00</updated>
+    <updated>2020-09-07T17:22:45+00:00</updated>
     <id>/blog/feed.atom</id>
     <author>
         <name>Pug Rovigo</name>
@@ -34,9 +34,7 @@ Iscriviti alla newsletter: <a href="http://bit.ly/grusp-nl">http://bit.ly/grusp-
 
 <p>Talk su Youtube:</p>
 
-<iframe width="100%" height="480" src="https://youtu.be/NQCkMkiB-s4" />
-
-<p></iframe></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQCkMkiB-s4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     ]]></content>
 </entry>
             <entry>
