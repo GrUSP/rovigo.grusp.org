@@ -3,12 +3,43 @@
     <title>PHP Users Group Rovigo</title>
     <link href="" />
     <link type="application/atom+xml" rel="self" href="/blog/feed.atom" />
-    <updated>2020-09-07T17:22:45+00:00</updated>
+    <updated>2020-10-03T08:11:20+00:00</updated>
     <id>/blog/feed.atom</id>
     <author>
         <name>Pug Rovigo</name>
     </author>
                 <entry>
+    <id>/blog/2020-09-23</id>
+    <link type="text/html" rel="alternate" href="/blog/2020-09-23" />
+    <title>IoT e web development</title>
+    <published>2020-09-23T00:00:00+00:00</published>
+    <updated>2020-09-23T00:00:00+00:00</updated>
+    <author>
+        <name>PUG Rovigo</name>
+    </author>
+    <summary type="html">In questo talk parliamo dello sviluppo di applicativi web pensati per un ambiente prettamente IoT.
+
+Sono disponibili i sorgenti github dell&#039;esempio mostrato nel video qui: https://github.com/pug-rovigo/iot-web-dev-2020-09-23
+
+Ti aspettiamo al prossimo......</summary>
+    <content type="html"><![CDATA[
+        <p>In questo talk parliamo dello sviluppo di applicativi web pensati per un ambiente prettamente IoT.</p>
+
+<p>Sono disponibili i sorgenti github dell'esempio mostrato nel video qui: <a href="https://github.com/pug-rovigo/iot-web-dev-2020-09-23">https://github.com/pug-rovigo/iot-web-dev-2020-09-23</a></p>
+
+<p>Ti aspettiamo al prossimo phpday!
+<a href="https://www.phpday.it">https://www.phpday.it</a>
+Twitter @phpday
+Iscriviti alla newsletter: <a href="http://bit.ly/grusp-nl">http://bit.ly/grusp-nl</a></p>
+
+<p>Alessandro Cappellozza</p>
+
+<p>Talk su Youtube:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xDBN3e_CoN8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    ]]></content>
+</entry>
+            <entry>
     <id>/blog/2020-05-14</id>
     <link type="text/html" rel="alternate" href="/blog/2020-05-14" />
     <title>Server Automation con Laravel Zero</title>
