@@ -8,23 +8,24 @@
         "watch": "npm run local -- --watch"
     },
     "devDependencies": {
-        "@babel/preset-env": "^7.11.5",
+        "@babel/preset-env": "^7.13.10",
         "axios": "^0.18.0",
-        "browser-sync": "^2.26.12",
-        "browser-sync-webpack-plugin": "^2.0.1",
+        "browser-sync": "^2.26.14",
+        "browser-sync-webpack-plugin": "^2.3.0",
         "cross-env": "^3.2.3",
         "extra-watch-webpack-plugin": "^1.0.3",
         "fuse.js": "^3.6.1",
         "hasbin": "^1.2.3",
-        "highlight.js": "^9.18.3",
+        "highlight.js": "^9.18.5",
         "laravel-mix": "^4.0.0",
         "laravel-mix-purgecss": "^3.0.0",
         "node-cmd": "^3.0.0",
-        "sass": "^1.26.10",
+        "sass": "^1.32.8",
         "sass-loader": "^7.1.0",
-        "tailwindcss": "^1.8.2",
+        "tailwindcss": "^1.9.6",
         "vue": "^2.6.12",
         "vue-template-compiler": "^2.6.12",
         "yargs": "^4.6.0"
-    }
+    },
+    "dependencies": {}
 }
