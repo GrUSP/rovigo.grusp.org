@@ -3,12 +3,89 @@
     <title>PHP Users Group Rovigo</title>
     <link href="" />
     <link type="application/atom+xml" rel="self" href="/blog/feed.atom" />
-    <updated>2020-12-04T19:57:18+00:00</updated>
+    <updated>2021-04-15T08:13:04+00:00</updated>
     <id>/blog/feed.atom</id>
     <author>
         <name>Pug Rovigo</name>
     </author>
                 <entry>
+    <id>/blog/2021-03-11</id>
+    <link type="text/html" rel="alternate" href="/blog/2021-03-11" />
+    <title>PHPDAY 2021 PUG Edition</title>
+    <published>2021-03-11T00:00:00+00:00</published>
+    <updated>2021-03-11T00:00:00+00:00</updated>
+    <author>
+        <name>PUG Rovigo</name>
+    </author>
+    <summary type="html">Un evento online e gratuito di una giornata, organizzato dai PUG (PHP User Group) italiani.
+phpday PUG Edition è nato nel 2020 dalla volontà della community di incontrarsi, non potendolo fare come ogni anno a Verona al phpday.
+L’evento è in italiano......</summary>
+    <content type="html"><![CDATA[
+        <p>Un evento online e gratuito di una giornata, organizzato dai PUG (PHP User Group) italiani.
+phpday PUG Edition è nato nel 2020 dalla volontà della community di incontrarsi, non potendolo fare come ogni anno a Verona al phpday.
+L’evento è in italiano e si svolgerà il <strong>18 Marzo 2021</strong> in una venue virtuale che permette di interagire, incontrarsi e partecipare attivamente.</p>
+
+<p>Puoi trovare tutte le informazioni sul sito <a href="https://pug.phpday.it">pug.phpday.it</a>.</p>
+
+<p>Per poter partecipare è sufficiente registrarsi <strong>gratuitamente</strong> <a href="https://phpday-pug-edition-2021.eventbrite.com">qui</a>.</p>
+
+<p>IL PROGRAMMA:
+* Design Patterns: Head-first vs Emergent - Roberto Gallea - PUG Palermo
+* Come posso fidarmi della mia suite di test? - Antonello D'Ippolito - PUG Roma
+* Sindrome dell'impostore, fiducia in se stessi e motivazione - Manuel Trebbi - PUG Romagna
+* Git branching model - Giuseppe Morelli - PUG Romagna
+* CI/CD: la teoria messa in pratica - Andrea Giannatonio - PUG Roma
+* Un approccio CQRS con Api Platform e Symfony Messenger - Alfredo Aiello - PUG Pescara
+* TBA - Teo Miscia e Alessandro Cappellozza - PUG Pescara + PUG Rovigo</p>
+
+<p>Conosci gli speaker, scopri il PUG più vicino a te, leggi i dettagli di ogni talk sul sito <a href="https://pug.phpday.it">pug.phpday.it</a>.</p>
+
+<p>Prenota il tuo biglietto GRATUITO <a href="https://phpday-pug-edition-2021.eventbrite.com">qui</a>.</p>
+
+<p>Seguici sui nostri canali social:
+* <a href="https://twitter.com/grusp/status/1365357279994912769">Twitter</a>
+* <a href="https://www.facebook.com/GrUSP/posts/3788549604532533">Facebook</a></p>
+
+<p>Alessandro Cappellozza
+Alessandro Vianello</p>
+    ]]></content>
+</entry>
+            <entry>
+    <id>/blog/2021-01-14</id>
+    <link type="text/html" rel="alternate" href="/blog/2021-01-14" />
+    <title>Headless CMS STRAPI</title>
+    <published>2021-01-14T00:00:00+00:00</published>
+    <updated>2021-01-14T00:00:00+00:00</updated>
+    <author>
+        <name>PUG Rovigo</name>
+    </author>
+    <summary type="html">Argomento della serata, gli headless cms e nello specifico STRAPI, un applicativo Node.js che si sta facendo spazio in questo nuovo modo di sviluppare cms.
+Con una comoda interfaccia possiamo andare a disegnare il nostro database, disponendo anche di un......</summary>
+    <content type="html"><![CDATA[
+        <p>Argomento della serata, gli headless cms e nello specifico STRAPI, un applicativo Node.js che si sta facendo spazio in questo nuovo modo di sviluppare cms.
+Con una comoda interfaccia possiamo andare a disegnare il nostro database, disponendo anche di un backend pronto che espone automaticamente degli API Rest endpoint, pronti all'uso, che possono all'occorrenza essere personalizzati.</p>
+
+<p>Punti trattati:
+- Cos'è un headless cms.
+- Carrellata sulle funzionalità.
+- Gli scheleton del progetto per vari tipi di pagine.
+- Test api endpoint.
+- Deploy locale con docker.</p>
+
+<p>Speaker: GIUSEPPE MORELLI</p>
+
+<p>Programmatore PHP dal 2006 specializzato nello sviluppo di e-commerce dal 2010.
+Dopo circa 10 anni di sviluppo e-commerce con Magento, dal 2020 decide cambiare piattaforma e passare a Sylius e Shopware (e usare come Saas Shopify).
+Originario dell'Umbria, dal 2013 vive nella splendida Romagna. Specializzato in sviluppi backend, è appassionato di tutto ciò che riguarda le integrazioni e automazioni con servizi terzi.</p>
+
+<p>Alessandro Cappellozza</p>
+
+<p>Talk su Youtube:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qxcOFCYjhPs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    ]]></content>
+</entry>
+            <entry>
     <id>/blog/2020-09-23</id>
     <link type="text/html" rel="alternate" href="/blog/2020-09-23" />
     <title>IoT e web development</title>
@@ -21,16 +98,13 @@
 
 Sono disponibili i sorgenti github dell&#039;esempio mostrato nel video qui: https://github.com/pug-rovigo/iot-web-dev-2020-09-23
 
-Ti aspettiamo al prossimo......</summary>
+Alessandro Cappellozza
+
+Talk......</summary>
     <content type="html"><![CDATA[
         <p>In questo talk parliamo dello sviluppo di applicativi web pensati per un ambiente prettamente IoT.</p>
 
 <p>Sono disponibili i sorgenti github dell'esempio mostrato nel video qui: <a href="https://github.com/pug-rovigo/iot-web-dev-2020-09-23">https://github.com/pug-rovigo/iot-web-dev-2020-09-23</a></p>
-
-<p>Ti aspettiamo al prossimo phpday!
-<a href="https://www.phpday.it">https://www.phpday.it</a>
-Twitter @phpday
-Iscriviti alla newsletter: <a href="http://bit.ly/grusp-nl">http://bit.ly/grusp-nl</a></p>
 
 <p>Alessandro Cappellozza</p>
 
