@@ -3,12 +3,34 @@
     <title>PHP Users Group Rovigo</title>
     <link href="" />
     <link type="application/atom+xml" rel="self" href="/blog/feed.atom" />
-    <updated>2021-05-20T17:09:22+00:00</updated>
+    <updated>2021-05-20T17:53:36+00:00</updated>
     <id>/blog/feed.atom</id>
     <author>
         <name>Pug Rovigo</name>
     </author>
                 <entry>
+    <id>/blog/2021-05-20</id>
+    <link type="text/html" rel="alternate" href="/blog/2021-05-20" />
+    <title>Parlando di ... PUG GrUSP e PHPDAY</title>
+    <published>2021-05-20T00:00:00+00:00</published>
+    <updated>2021-05-20T00:00:00+00:00</updated>
+    <author>
+        <name>PUG Rovigo</name>
+    </author>
+    <summary type="html">Nel 2020 ho avuto modo di partecipare al primo phpday, anche se interamente online a causa della pandemia da Covid-19. L&#039;evento era stato organizzato dal GrUSP, un&#039;associazione che riunisce gruppi, geograficamente localizzati, di programmatori PHP (ma......</summary>
+    <content type="html"><![CDATA[
+        <p>Nel 2020 ho avuto modo di partecipare al primo phpday, anche se interamente online a causa della pandemia da Covid-19. L'evento era stato organizzato dal GrUSP, un'associazione che riunisce gruppi, geograficamente localizzati, di programmatori PHP (ma non solo) denominati PUG (PHP User Group). Poco tempo prima infatti, su suggerimento di Alessandro Cappellozza, amico e collega, avevamo costituito proprio un PUG per la zona di Rovigo, col desiderio di coinvolgere altri ragazzi della zona interessati a ritrovarsi periodicamente per condividere conoscenze di informatica e tecnologia e imparare reciprocamente.</p>
+
+<p>Inizialmente ero convinto che la modalità a distanza potesse rendere il tutto poco fruibile e di conseguenza meno interessante. D'altronde questa situazione era nuova per tutti per cui le problematiche da superare non mancavano di certo.</p>
+
+<p>L'evento però è stato davvero sorprendente, sia per lo spirito con cui è stato portato avanti nonostante le difficoltà organizzative ma allo stesso tempo anche per la ricchezza di contenuti offerti, nei diversi talk. Questo grazie alle competenze dei molteplici relatori che si sono alternati proponendo un ampio ventaglio di argomenti, alcuni più entry-level e divulgativi, altri più tecnici e approfonditi, spaziando dalle novità di PHP8 allo sviluppo guidato dai test (TDD), dalle API REST, ad alcune peculiarità di Laravel.</p>
+
+<p>A distanza di un anno da questa esperienza, posso constatare con piacere che entrare nel mondo del GrUSP, attraverso il PUG Rovigo e la partecipazione al phpday, mi ha davvero aperto un mondo di esperienze umane oltre che di informazioni, fruibili chiaramente in misura diversa, a seconda del proprio background, ma di notevole valore. Grazie ai canali di Slack poi, la possibilità di condivisione si è estesa anche oltre l'evento. Sono stato davvero contento di questa opportunità, del lavoro svolto sia dal GrUSP sia dai singoli PUG e sono certo che lo sarò anche in futuro.</p>
+
+<p>Alessandro Vianello</p>
+    ]]></content>
+</entry>
+            <entry>
     <id>/blog/2021-04-14</id>
     <link type="text/html" rel="alternate" href="/blog/2021-04-14" />
     <title>DOCKER il salvavita di ogni sviluppatore</title>
