@@ -3,7 +3,7 @@
     <title>PHP Users Group Rovigo</title>
     <link href="" />
     <link type="application/atom+xml" rel="self" href="/blog/feed.atom" />
-    <updated>2021-05-20T17:53:36+00:00</updated>
+    <updated>2021-05-20T18:13:00+00:00</updated>
     <id>/blog/feed.atom</id>
     <author>
         <name>Pug Rovigo</name>
@@ -26,6 +26,8 @@
 <p>L'evento però è stato davvero sorprendente, sia per lo spirito con cui è stato portato avanti nonostante le difficoltà organizzative ma allo stesso tempo anche per la ricchezza di contenuti offerti, nei diversi talk. Questo grazie alle competenze dei molteplici relatori che si sono alternati proponendo un ampio ventaglio di argomenti, alcuni più entry-level e divulgativi, altri più tecnici e approfonditi, spaziando dalle novità di PHP8 allo sviluppo guidato dai test (TDD), dalle API REST, ad alcune peculiarità di Laravel.</p>
 
 <p>A distanza di un anno da questa esperienza, posso constatare con piacere che entrare nel mondo del GrUSP, attraverso il PUG Rovigo e la partecipazione al phpday, mi ha davvero aperto un mondo di esperienze umane oltre che di informazioni, fruibili chiaramente in misura diversa, a seconda del proprio background, ma di notevole valore. Grazie ai canali di Slack poi, la possibilità di condivisione si è estesa anche oltre l'evento. Sono stato davvero contento di questa opportunità, del lavoro svolto sia dal GrUSP sia dai singoli PUG e sono certo che lo sarò anche in futuro.</p>
+
+<p>Per chi fosse ancora più curioso ;) <a href="https://www.grusp.org/blog/phpday-pug-edition-riviviamo-la-seconda-edizione/">qui</a> è disponibile un ottimo articolo del GrUSP sull'edizione di phpday PUG Edition 2021, svoltasi da poco.</p>
 
 <p>Alessandro Vianello</p>
     ]]></content>
