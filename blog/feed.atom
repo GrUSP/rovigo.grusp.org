@@ -3,12 +3,42 @@
     <title>PHP Users Group Rovigo</title>
     <link href="" />
     <link type="application/atom+xml" rel="self" href="/blog/feed.atom" />
-    <updated>2021-05-20T17:05:56+00:00</updated>
+    <updated>2021-05-20T17:09:22+00:00</updated>
     <id>/blog/feed.atom</id>
     <author>
         <name>Pug Rovigo</name>
     </author>
                 <entry>
+    <id>/blog/2021-04-14</id>
+    <link type="text/html" rel="alternate" href="/blog/2021-04-14" />
+    <title>DOCKER il salvavita di ogni sviluppatore</title>
+    <published>2021-04-14T00:00:00+00:00</published>
+    <updated>2021-04-14T00:00:00+00:00</updated>
+    <author>
+        <name>PUG Rovigo</name>
+    </author>
+    <summary type="html">Tema di questo incontro è Docker, strumento pensato prettamente per gli sviluppatori. L&#039;incontro si svolge in due momenti: una prima presentazione teorica, necessaria per comprendere la storia e le motivazioni inerenti lo sviluppo di Docker, seguita da......</summary>
+    <content type="html"><![CDATA[
+        <p>Tema di questo incontro è Docker, strumento pensato prettamente per gli sviluppatori. L'incontro si svolge in due momenti: una prima presentazione teorica, necessaria per comprendere la storia e le motivazioni inerenti lo sviluppo di Docker, seguita da una serie di demo che ne illustrano l'utilizzo pratico.</p>
+
+<p>Punti trattati:
+- Cos'è Docker, storia, struttura e caratteristiche (a cura di Alessandro Cappellozza)
+- Esempi di uso pratico (demo curate da Giuseppe Morelli)</p>
+
+<p>Speaker: ALESSANDRO CAPPELLOZZA e GIUSEPPE MORELLI</p>
+
+<p>Giuseppe Morelli è programmatore PHP dal 2006 specializzato nello sviluppo di e-commerce dal 2010.
+Dopo circa 10 anni di sviluppo e-commerce con Magento, dal 2020 decide cambiare piattaforma e passare a Sylius e Shopware (e usare come Saas Shopify).
+Originario dell'Umbria, dal 2013 vive nella splendida Romagna. Specializzato in sviluppi backend, è appassionato di tutto ciò che riguarda le integrazioni e automazioni con servizi terzi.</p>
+
+<p>Alessandro Cappellozza</p>
+
+<p>Talk su Youtube:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/10fNHyHt0Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    ]]></content>
+</entry>
+            <entry>
     <id>/blog/2021-03-11</id>
     <link type="text/html" rel="alternate" href="/blog/2021-03-11" />
     <title>PHPDAY 2021 PUG Edition</title>
@@ -48,36 +78,6 @@ L’evento è in italiano e si svolgerà il <strong>18 Marzo 2021</strong> in un
 
 <p>Alessandro Cappellozza
 Alessandro Vianello</p>
-    ]]></content>
-</entry>
-            <entry>
-    <id>/blog/2021-04-14</id>
-    <link type="text/html" rel="alternate" href="/blog/2021-04-14" />
-    <title>DOCKER il salvavita di ogni sviluppatore</title>
-    <published>2021-01-14T00:00:00+00:00</published>
-    <updated>2021-01-14T00:00:00+00:00</updated>
-    <author>
-        <name>PUG Rovigo</name>
-    </author>
-    <summary type="html">Tema di questo incontro è Docker, strumento pensato prettamente per gli sviluppatori. L&#039;incontro si svolge in due momenti: una prima presentazione teorica, necessaria per comprendere la storia e le motivazioni inerenti lo sviluppo di Docker, seguita da......</summary>
-    <content type="html"><![CDATA[
-        <p>Tema di questo incontro è Docker, strumento pensato prettamente per gli sviluppatori. L'incontro si svolge in due momenti: una prima presentazione teorica, necessaria per comprendere la storia e le motivazioni inerenti lo sviluppo di Docker, seguita da una serie di demo che ne illustrano l'utilizzo pratico.</p>
-
-<p>Punti trattati:
-- Cos'è Docker, storia, struttura e caratteristiche (a cura di Alessandro Cappellozza)
-- Esempi di uso pratico (demo curate da Giuseppe Morelli)</p>
-
-<p>Speaker: ALESSANDRO CAPPELLOZZA e GIUSEPPE MORELLI</p>
-
-<p>Giuseppe Morelli è programmatore PHP dal 2006 specializzato nello sviluppo di e-commerce dal 2010.
-Dopo circa 10 anni di sviluppo e-commerce con Magento, dal 2020 decide cambiare piattaforma e passare a Sylius e Shopware (e usare come Saas Shopify).
-Originario dell'Umbria, dal 2013 vive nella splendida Romagna. Specializzato in sviluppi backend, è appassionato di tutto ciò che riguarda le integrazioni e automazioni con servizi terzi.</p>
-
-<p>Alessandro Cappellozza</p>
-
-<p>Talk su Youtube:</p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/10fNHyHt0Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     ]]></content>
 </entry>
             <entry>
